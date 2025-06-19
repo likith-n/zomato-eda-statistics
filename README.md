@@ -6,7 +6,7 @@ This notebook explores restaurant data from Zomato using Exploratory Data Analys
 - Distribution of cost for two
 - Cities with high cost variation
 - Cuisines with high price variability
-- Correlation between votes and ratings
+
 
 Tools used: Pandas, Matplotlib, Seaborn, Numpy
 
